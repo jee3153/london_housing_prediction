@@ -1,0 +1,8 @@
+pandas
+numpy
+seaborn
+matplotlib
+sklearn
+requests
+scipy
+mpl_toolkits
